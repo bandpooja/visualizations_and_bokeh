@@ -1,2 +1,2 @@
-# visualizations_and_bokeh
+# visualizations_WFH
 python visualizations basic
