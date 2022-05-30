@@ -1,2 +1,2 @@
 # visualizations_WFH
-python visualizations basic
+python visualizations
